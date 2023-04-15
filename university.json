@@ -1,0 +1,5696 @@
+[
+ {
+  "University_name": "دانشگاه آیت‌الله‌العظمی بروجردی",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "بروجرد",
+  "University_State": "لرستان"
+ },
+ {
+  "University_name": "دانشگاه اراک",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "اراک",
+  "University_State": "اراک"
+ },
+ {
+  "University_name": "دانشگاه اردکان",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "اردکان",
+  "University_State": "یزد"
+ },
+ {
+  "University_name": "دانشگاه ارومیه",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "ارومیه",
+  "University_State": "آذربایجان غربی"
+ },
+ {
+  "University_name": "دانشگاه اصفهان",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "اصفهان",
+  "University_State": "اصفهان"
+ },
+ {
+  "University_name": "دانشگاه الزهرا",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشگاه ایلام",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "ایلام",
+  "University_State": "آذربایجان غربی"
+ },
+ {
+  "University_name": "دانشگاه بجنورد",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "بجنورد",
+  "University_State": "خراسان شمالی"
+ },
+ {
+  "University_name": "دانشگاه بزرگمهر",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "قائن",
+  "University_State": "خراسان جنوبی"
+ },
+ {
+  "University_name": "دانشگاه بناب",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "بناب",
+  "University_State": "آذربایجان شرقی"
+ },
+ {
+  "University_name": "دانشگاه بوعلی سینا همدان",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "همدان",
+  "University_State": "همدان"
+ },
+ {
+  "University_name": "دانشگاه بیرجند",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "بیرجند",
+  "University_State": "خراسان جنوبی"
+ },
+ {
+  "University_name": "دانشگاه بین‌المللی امام خمینی",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "قزوین",
+  "University_State": "قزوین"
+ },
+ {
+  "University_name": "دانشگاه تبریز",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "تبریز",
+  "University_State": "آذربایجان شرقی"
+ },
+ {
+  "University_name": "دانشگاه تحصیلات تکمیلی صنعتی کرمان",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "کرمان",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "دانشگاه تحصیلات تکمیلی علوم پایه زنجان",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "زنجان",
+  "University_State": "زنجان"
+ },
+ {
+  "University_name": "دانشگاه تخصصی فناوری‌های نوین آمل",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "آمل",
+  "University_State": "مازندران"
+ },
+ {
+  "University_name": "دانشگاه تربت حیدریه",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "تربت حیدریه",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "دانشگاه تربیت دبیر شهید رجایی",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشگاه تربیت مدرس",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشگاه تفرش",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "تفرش",
+  "University_State": "مرکزی"
+ },
+ {
+  "University_name": "دانشگاه تهران",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشگاه جیرفت",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "جیرفت",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "دانشگاه جهرم",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "جهرم",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "دانشگاه حضرت نرجس رفسنجان",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "رفسنجان",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "دانشگاه حکیم سبزواری",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "سبزوار",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "دانشگاه خلیج فارس بوشهر",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "بوشهر",
+  "University_State": "بوشهر"
+ },
+ {
+  "University_name": "دانشگاه خوارزمی",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشگاه دامغان",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "دامغان",
+  "University_State": "سمنان"
+ },
+ {
+  "University_name": "دانشگاه حضرت معصومه",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "قم",
+  "University_State": "قم"
+ },
+ {
+  "University_name": "دانشگاه دریانوردی و علوم دریایی چابهار",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "چابهار",
+  "University_State": "سیستان و بلوچستان"
+ },
+ {
+  "University_name": "دانشگاه رازی کرمانشاه",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "کرمانشاه",
+  "University_State": "کرمانشاه"
+ },
+ {
+  "University_name": "دانشگاه زابل",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "زابل",
+  "University_State": "سیستان و بلوچستان"
+ },
+ {
+  "University_name": "دانشگاه زنجان",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "زنجان",
+  "University_State": "زنجان"
+ },
+ {
+  "University_name": "دانشگاه سلمان فارسی کازرون",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "کازرون",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "دانشگاه سید جمال‌الدین اسدآبادی",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "اسدآباد",
+  "University_State": "همدان"
+ },
+ {
+  "University_name": "دانشگاه سمنان",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "سمنان",
+  "University_State": "سمنان"
+ },
+ {
+  "University_name": "دانشگاه سیستان و بلوچستان",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "زاهدان",
+  "University_State": "سیستان و بلوچستان"
+ },
+ {
+  "University_name": "دانشگاه شاهد",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشگاه شهرکرد",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "شهرکرد",
+  "University_State": "چهارمحال و بختیاری"
+ },
+ {
+  "University_name": "دانشگاه شهید باهنر کرمان",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "کرمان",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "دانشگاه شهید چمران اهواز",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "اهواز",
+  "University_State": "خوزستان"
+ },
+ {
+  "University_name": "دانشگاه شهید بهشتی",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشگاه شهید مدنی آذربایجان",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "تبریز",
+  "University_State": "آذربایجان شرقی"
+ },
+ {
+  "University_name": "دانشگاه شیراز",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "شیراز",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "دانشگاه صنعتی اراک",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "اراک",
+  "University_State": "مرکزی"
+ },
+ {
+  "University_name": "دانشگاه صنعتی ارومیه",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "ارومیه",
+  "University_State": "آذربایجان غربی"
+ },
+ {
+  "University_name": "دانشگاه صنعتی اصفهان",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "اصفهان",
+  "University_State": "اصفهان"
+ },
+ {
+  "University_name": "دانشگاه صنعتی امیرکبیر",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشگاه صنعتی بیرجند",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "بیرجند",
+  "University_State": "خراسان جنوبی"
+ },
+ {
+  "University_name": "دانشگاه صنعتی جندی‌شاپور",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "دزفول",
+  "University_State": "خوزستان"
+ },
+ {
+  "University_name": "دانشگاه صنعتی خاتم‌الانبیا",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "بهبهان",
+  "University_State": "خوزستان"
+ },
+ {
+  "University_name": "دانشگاه صنعتی خواجه نصیرالدین طوسی",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشگاه صنعتی سهند",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "سهند",
+  "University_State": "آذربایجان شرقی"
+ },
+ {
+  "University_name": "دانشگاه صنعتی سیرجان",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "سیرجان",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "دانشگاه صنعتی شاهرود",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "شاهرود",
+  "University_State": "سمنان"
+ },
+ {
+  "University_name": "دانشگاه صنعتی شریف",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشگاه صنعتی شهدای هویزه",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "سوسنگرد",
+  "University_State": "خوزستان"
+ },
+ {
+  "University_name": "دانشگاه صنعتی شیراز",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "شیراز",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "دانشگاه صنعتی قم",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "قم",
+  "University_State": "قم"
+ },
+ {
+  "University_name": "دانشگاه صنعتی قوچان",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "قوچان",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "دانشگاه صنعتی کرمانشاه",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "کرمانشاه",
+  "University_State": "کرمانشاه"
+ },
+ {
+  "University_name": "دانشگاه صنعتی نوشیروانی بابل",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "بابل",
+  "University_State": "مازندران"
+ },
+ {
+  "University_name": "دانشگاه صنعتی همدان",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "همدان",
+  "University_State": "همدان"
+ },
+ {
+  "University_name": "دانشگاه علامه طباطبایی",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشگاه علم و صنعت ایران",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشگاه علم و فناوری مازندران",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "بهشهر",
+  "University_State": "مازندران"
+ },
+ {
+  "University_name": "دانشگاه علوم و فنون دریایی خرمشهر",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "خرمشهر",
+  "University_State": "خوزستان"
+ },
+ {
+  "University_name": "دانشگاه علوم کشاورزی و منابع طبیعی ساری",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "ساری",
+  "University_State": "مازندران"
+ },
+ {
+  "University_name": "دانشگاه علوم کشاورزی و منابع طبیعی گرگان",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "گرگان",
+  "University_State": "گلستان"
+ },
+ {
+  "University_name": "دانشگاه فردوسی مشهد",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "مشهد",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "دانشگاه فرزانگان سمنان",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "سمنان",
+  "University_State": "سمنان"
+ },
+ {
+  "University_name": "دانشگاه فسا",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "فسا",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "دانشگاه قم",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "قم",
+  "University_State": "قم"
+ },
+ {
+  "University_name": "دانشگاه کاشان",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "کاشان",
+  "University_State": "اصفهان"
+ },
+ {
+  "University_name": "دانشگاه کردستان",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "سنندج",
+  "University_State": "کردستان"
+ },
+ {
+  "University_name": "دانشگاه کشاورزی و منابع طبیعی رامین",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "ملاثانی",
+  "University_State": "خوزستان"
+ },
+ {
+  "University_name": "دانشگاه کوثر بجنورد",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "بجنورد",
+  "University_State": "خراسان شمالی"
+ },
+ {
+  "University_name": "دانشگاه گرمسار",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "گرمسار",
+  "University_State": "سمنان"
+ },
+ {
+  "University_name": "دانشگاه گلستان",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "گرگان",
+  "University_State": "گلستان"
+ },
+ {
+  "University_name": "دانشگاه گنبد کاووس",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "گنبد کاووس",
+  "University_State": "گلستان"
+ },
+ {
+  "University_name": "دانشگاه گیلان",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "رشت",
+  "University_State": "گیلان"
+ },
+ {
+  "University_name": "دانشگاه لرستان",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "خرم‌آباد",
+  "University_State": "لرستان"
+ },
+ {
+  "University_name": "دانشگاه مازندران",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "بابلسر",
+  "University_State": "مازندران"
+ },
+ {
+  "University_name": "دانشگاه محقق اردبیلی",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "اردبیل",
+  "University_State": "اردبیل"
+ },
+ {
+  "University_name": "دانشگاه مراغه",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "مراغه",
+  "University_State": "آدربایجان شرقی"
+ },
+ {
+  "University_name": "دانشگاه ملایر",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "ملایر",
+  "University_State": "همدان"
+ },
+ {
+  "University_name": "دانشگاه مهندسی علوم و فناوری‌های نوین گلبهار",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "گلبهار",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "دانشگاه میبد",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "میبد",
+  "University_State": "یزد"
+ },
+ {
+  "University_name": "دانشگاه نیشابور",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "نیشابور",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "دانشگاه ولایت ایرانشهر",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "ایرانشهر",
+  "University_State": "سیستان و بلوچستان"
+ },
+ {
+  "University_name": "دانشگاه ولی‌عصر رفسنجان",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "رفسنجان",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "دانشگاه هرمزگان",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "بندرعباس",
+  "University_State": "هرمزگان"
+ },
+ {
+  "University_name": "دانشگاه هنر اسلامی تبریز",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "تبریز",
+  "University_State": "آذربایجان شرقی"
+ },
+ {
+  "University_name": "دانشگاه هنر اصفهان",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "اصفهان",
+  "University_State": "اصفهان"
+ },
+ {
+  "University_name": "دانشگاه هنر تهران",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشگاه هنر شیراز",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "شیراز",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "دانشگاه یاسوج",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "یاسوج",
+  "University_State": "کهگیلویه و بویراحمد"
+ },
+ {
+  "University_name": "دانشگاه یزد",
+  "University_type": "دولتی(وزارت علوم،تحقیقات وفناوری)",
+  "University_city": "یزد",
+  "University_State": "یزد"
+ },
+ {
+  "University_name": "دانشگاه علوم بهزیستی و توانبخشی",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی آبادان",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "آبادان",
+  "University_State": "خوزستان"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی اراک",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "اراک",
+  "University_State": "مرکزی"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی ارتش",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی اردبیل",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "اردبیل",
+  "University_State": "اردبیل"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی ارومیه",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "ارومیه",
+  "University_State": "آذربایجان غربی"
+ },
+ {
+  "University_name": "دانشکده علوم پزشکی اسدآباد",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "اسدآباد",
+  "University_State": "همدان"
+ },
+ {
+  "University_name": "دانشکده علوم پزشکی اسفراین",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "اسفراین",
+  "University_State": "خراسان شمالی"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی اصفهان",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "اصفهان",
+  "University_State": "اصفهان"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی البرز",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "کرج",
+  "University_State": "کرج"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی ایران",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی ایرانشهر",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "ایرانشهر",
+  "University_State": "سیستان و بلوچستان"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی ایلام",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "ایلام",
+  "University_State": "ایلام"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی بابل",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "بابل",
+  "University_State": "مازندران"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی بقیةالله",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی بم",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "بم",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی بوشهر",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "بوشهر",
+  "University_State": "بوشهر"
+ },
+ {
+  "University_name": "دانشکده علوم پزشکی بهبهان",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "بهبهان",
+  "University_State": "خوزستان"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی بیرجند",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "بیرجند",
+  "University_State": "خراسان جنوبی"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی تبریز",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "تبریز",
+  "University_State": "آذربایجان شرقی"
+ },
+ {
+  "University_name": "دانشکده علوم پزشکی تربت جام",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "تربت جام",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی تربت حیدریه",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "تربت حیدریه",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی تهران",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی جندی‌شاپور",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "اهواز",
+  "University_State": "خوزستان"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی جهرم",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "جهرم",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی جیرفت",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "جیرفت",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی خراسان شمالی",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "بجنورد",
+  "University_State": "خراسان شمالی"
+ },
+ {
+  "University_name": "دانشکده علوم پزشکی خلخال",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "خلخال",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده علوم پزشکی خمین",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "خمین",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده علوم پزشکی خوی",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "خوی",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی دزفول",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "دزفول",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی رفسنجان",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "رفسنجان",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی زابل",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "زابل",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی زاهدان",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "زاهدان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی زنجان",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "زنجان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده علوم پزشکی ساوه",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "ساوه",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی سبزوار",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "سبزوار",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده علوم پزشکی سراب",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "سراب",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی سمنان",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "سمنان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده علوم پزشکی سیرجان",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "سیرجان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی شاهد",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی شاهرود",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "شاهرود",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی شهرکرد",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "شهرکرد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی شهید بهشتی",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی شهید صدوقی",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "یزد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده علوم پزشکی شوشتر",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "شوشتر",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی شیراز",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "شیراز",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی فسا",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "فسا",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی قزوین",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "قزوین",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی قم",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "قم",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی کاشان",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "کاشان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی کردستان",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "سنندج",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی کرمان",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "کرمان",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی کرمانشاه",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "کرمانشاه",
+  "University_State": "کرمانشاه"
+ },
+ {
+  "University_name": "دانشکده علوم پزشکی گراش",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "گراش",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی گلستان",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "گرگان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی گناباد",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "گناباد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی گیلان",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "رشت",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده علوم پزشکی لارستان",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "لار",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی لرستان",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "خرم‌آباد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی مازندران",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "ساری",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده علوم پزشکی مراغه",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "مراغه",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی مشهد",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "مشهد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده علوم پزشکی نیشابور",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "نیشابور",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی هرمزگان",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "بندرعباس",
+  "University_State": "هرمزگان"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی همدان",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "همدان",
+  "University_State": "همدان"
+ },
+ {
+  "University_name": "دانشگاه علوم پزشکی یاسوج",
+  "University_type": "دولتی(وزارت بهداشت،درمان وآموزش پزشکی)",
+  "University_city": "یاسوج",
+  "University_State": "-"
+ },
+ {
+  "University_name": "پردیس علامه امینی تبریز",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "تبریز",
+  "University_State": "آذربایجان شرقی"
+ },
+ {
+  "University_name": "پردیس فاطمه الزهرا (س) تبریز",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "تبریز",
+  "University_State": "آذربایجان شرقی"
+ },
+ {
+  "University_name": "پردیس علامه طباطبایی ارومیه",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "ارومیه",
+  "University_State": "آذربایجان غربی"
+ },
+ {
+  "University_name": "پردیس بنت‌الهدی صدر اردبیل",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "اردبیل",
+  "University_State": "اردبیل"
+ },
+ {
+  "University_name": "پردیس امیر کبیر کرج",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "کرج",
+  "University_State": "البرز"
+ },
+ {
+  "University_name": "پردیس حکیم ابوالقاسم فردوسی کرج",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "کرج",
+  "University_State": "البرز"
+ },
+ {
+  "University_name": "پردیس امام جعفر صادق ایلام",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "ایلام",
+  "University_State": "ایلام"
+ },
+ {
+  "University_name": "پردیس شهید مدرس ایلام",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "ایلام",
+  "University_State": "ایلام"
+ },
+ {
+  "University_name": "پردیس علامه طباطبایی بوشهر",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "بوشهر",
+  "University_State": "بوشهر"
+ },
+ {
+  "University_name": "پردیس بنت‌الهدی صدر بوشهر",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "بوشهر",
+  "University_State": "بوشهر"
+ },
+ {
+  "University_name": "پردیس زینبیه پیشوا",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "پردیس شهید مفتح شهر ری",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "پردیس بحرالعلوم شهرکرد",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "شهرکرد",
+  "University_State": "چهارمحال و بختیاری"
+ },
+ {
+  "University_name": "پردیس شهید باهنر شهرکرد",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "شهرکرد",
+  "University_State": "چهارمحال و بختیاری"
+ },
+ {
+  "University_name": "پردیس شهید باهنر بیرجند",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "بیرجند",
+  "University_State": "خراسان جنوبی"
+ },
+ {
+  "University_name": "پردیس شهید هاشمی نژاد مشهد",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "مشهد",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "پردیس امام محمد باقر بجنورد",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "بجنورد",
+  "University_State": "خراسان شمالی"
+ },
+ {
+  "University_name": "پردیس امام جعفر صادق بجنورد",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "بجنورد",
+  "University_State": "خراسان شمالی"
+ },
+ {
+  "University_name": "پردیس شهید بهشتی زنجان",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "زنجان",
+  "University_State": "زنجان"
+ },
+ {
+  "University_name": "پردیس الزهرا زنجان",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "زنجان",
+  "University_State": "زنجان"
+ },
+ {
+  "University_name": "پردیس شهید رجایی سمنان",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "سمنان",
+  "University_State": "سمنان"
+ },
+ {
+  "University_name": "پردیس الزهرا سمنان",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "سمنان",
+  "University_State": "سمنان"
+ },
+ {
+  "University_name": "پردیس رسالت زاهدان",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "زاهدان",
+  "University_State": "سیستان و بلوچستان"
+ },
+ {
+  "University_name": "پردیس شهید رجایی قزوین",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "قزوین",
+  "University_State": "قزوین"
+ },
+ {
+  "University_name": "پردیس بنت‌الهدی صدر قزوین",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "قزوین",
+  "University_State": "قزوین"
+ },
+ {
+  "University_name": "پردیس حضرت معصومه قم",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "قم",
+  "University_State": "قم"
+ },
+ {
+  "University_name": "پردیس شهید مدرس سنندج",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "سنندج",
+  "University_State": "کردستان"
+ },
+ {
+  "University_name": "پردیس بنت‌الهدی صدر سنندج",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "سنندج",
+  "University_State": "کردستان"
+ },
+ {
+  "University_name": "پردیس خواجه نصیرالدین طوسی کرمان",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "کرمان",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "پردیس شهید باهنر کرمان",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "کرمان",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "پردیس شهید رجایی کرمانشاه",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "کرمانشاه",
+  "University_State": "کرمانشاه"
+ },
+ {
+  "University_name": "پردیس شهید صدوقی کرمانشاه",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "کرمانشاه",
+  "University_State": "کرمانشاه"
+ },
+ {
+  "University_name": "پردیس شهید ایزدپناه یاسوج",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "یاسوج",
+  "University_State": "کهگیلویه و بویراحمد"
+ },
+ {
+  "University_name": "پردیس کوثر یاسوج",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "یاسوج",
+  "University_State": "کهگیلویه و بویراحمد"
+ },
+ {
+  "University_name": "پرددیس امام خمینی گرگان",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "گرگان",
+  "University_State": "گلستان"
+ },
+ {
+  "University_name": "پردیس امام علی رشت",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "رشت",
+  "University_State": "گیلان"
+ },
+ {
+  "University_name": "پردیس بنت‌الهدی صدر رشت",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "رشت",
+  "University_State": "گیلان"
+ },
+ {
+  "University_name": "پردیس شهید باهنر اراک",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "اراک",
+  "University_State": "مرکزی"
+ },
+ {
+  "University_name": "پردیس زینب کبری اراک",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "اراک",
+  "University_State": "مرکزی"
+ },
+ {
+  "University_name": "پردیس شهید بهشتی بندرعباس",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "بندرعباس",
+  "University_State": "هرمزگان"
+ },
+ {
+  "University_name": "پردیس فاطمه الزهرا بندرعباس",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "بندرعباس",
+  "University_State": "هرمزگان"
+ },
+ {
+  "University_name": "پردیس شهید باهنر همدان",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "همدان",
+  "University_State": "همدان"
+ },
+ {
+  "University_name": "پردیس شهید پاک‌نژاد یزد",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "یزد",
+  "University_State": "یزد"
+ },
+ {
+  "University_name": "پردیس فاطمه الزهرا یزد",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "یزد",
+  "University_State": "یزد"
+ },
+ {
+  "University_name": "پردیس علامه طباطبایی اردبیل",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "اردبیل",
+  "University_State": "اردبیل"
+ },
+ {
+  "University_name": "پردیس شهید مقصودی همدان",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "همدان",
+  "University_State": "همدان"
+ },
+ {
+  "University_name": "پردیس حضرت رسول اکرم اهواز",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "اهواز",
+  "University_State": "خوزستان"
+ },
+ {
+  "University_name": "پردیس فاطمه الزهرا (س) اصفهان",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "اصفهان",
+  "University_State": "اصفهان"
+ },
+ {
+  "University_name": "پردیس شهید رجایی شیراز",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "شیراز",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "پردیس شهید چمران تهران",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "پردیس امام سجاد بیرجند",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "بیرجند",
+  "University_State": "خراسان جنوبی"
+ },
+ {
+  "University_name": "پردیس صدیقه طاهره ساری",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "ساری",
+  "University_State": "مازندران"
+ },
+ {
+  "University_name": "پردیس فاطمه الزهرا اهواز",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "اهواز",
+  "University_State": "خوزستان"
+ },
+ {
+  "University_name": "پردیس شهید باهنر اصفهان",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "اصفهان",
+  "University_State": "اصفهان"
+ },
+ {
+  "University_name": "پردیس آیت‌الله کمالوند خرم‌آباد",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "خرم آباد",
+  "University_State": "لرستان"
+ },
+ {
+  "University_name": "پردیس شهید باهنر شیراز",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "شیراز",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "پردیس نسیبه تهران",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "پردیس آیت‌الله خامنه‌ای گرگان",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "گرگان",
+  "University_State": "گلستان"
+ },
+ {
+  "University_name": "پردیس شهید مطهری زاهدان",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "زاهدان",
+  "University_State": "سیستان و بلوچستان"
+ },
+ {
+  "University_name": "پردیس دکتر شریعتی ساری",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "ساری",
+  "University_State": "مازندران"
+ },
+ {
+  "University_name": "پردیس آیت‌الله طالقانی قم",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "قم",
+  "University_State": "قم"
+ },
+ {
+  "University_name": "پردیس شهید رجایی ارومیه",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "ارومیه",
+  "University_State": "آذربایجان غربی"
+ },
+ {
+  "University_name": "پردیس علامه طباطبایی خرم‌آباد",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "خرم آباد",
+  "University_State": "لرستان"
+ },
+ {
+  "University_name": "پردیس شهید دکتر بهشتی مشهد",
+  "University_type": "پردیس(وزارت آموزش و پرورش)",
+  "University_city": "مشهد",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "مرکز آموزش عالی آزادگان نیر",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "نیر",
+  "University_State": "اردبیل"
+ },
+ {
+  "University_name": "مرکز آموزش عالی ابن سینا همدان",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "همدان",
+  "University_State": "همدان"
+ },
+ {
+  "University_name": "مرکز آموزش عالی امام جعفر صادق بهبهان",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "بهبهان",
+  "University_State": "خوزستان"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شیخ مرتضی انصاری دزفول",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "دزفول",
+  "University_State": "خوزستان"
+ },
+ {
+  "University_name": "مرکز آموزش عالی امام رضا اندیمشک",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "اندیمشک",
+  "University_State": "خوزستان"
+ },
+ {
+  "University_name": "مرکز آموزش عالی امام خمینی کاشان",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "کاشان",
+  "University_State": "اصفهان"
+ },
+ {
+  "University_name": "مرکز آموزش عالی بعثت شیراز",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "شیراز",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شهید بهشتی اقلید",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "اقلید",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شهید مطهری زرقان",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "زرقان",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "مرکز آموزش عالی بلال حبشی تهران",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شهید بهشتی تهران",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شهدای مکه تهران",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "مرکز آموزش عالی بنت‌الهدی صدر فردوس",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "فردوس",
+  "University_State": "خراسان جنوبی"
+ },
+ {
+  "University_name": "مرکز آموزش عالی حضرت فاطمه قائم‌شهر",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "قائم شهر",
+  "University_State": "مازندران"
+ },
+ {
+  "University_name": "مرکز آموزش عالی بیت‌الهدی آمل",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "آمل",
+  "University_State": "مازندران"
+ },
+ {
+  "University_name": "مرکز آموزش عالی حضرت خدیجه کبری دزفول",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "دزفول",
+  "University_State": "خوزستان"
+ },
+ {
+  "University_name": "مرکز آموزش عالی دکتر آیت نجف‌آباد",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "نجف‌آباد",
+  "University_State": "اصفهان"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شهید رجایی اصفهان",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "اصفهان",
+  "University_State": "اصفهان"
+ },
+ {
+  "University_name": "مرکز آموزش عالی زینب کبری بروجرد",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "بروجرد",
+  "University_State": "لرستان"
+ },
+ {
+  "University_name": "مرکز آموزش عالی سلمان فارسی شیراز",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "شیراز",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "مرکز آموزش عالی زینب کبری کازرون",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "کازرون",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "مرکز آموزش عالی لارستان",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "لارستان",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شهید باهنر تهران",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شهید شرافت تهران",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "مرکز آموزش عالی عترت واوان",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شهید بهشتی گنبدکاووس",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "گنبد کاووس",
+  "University_State": "گلستان"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شهید حسینی طباطبایی زاهدان",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "زاهدان",
+  "University_State": "سیستان و بلوچستان"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شهید رجایی بابل",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "بابل",
+  "University_State": "مازندران"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شهید مطهری نوشهر",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "نوشهر",
+  "University_State": "مازندران"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شهید مدنی قم",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "قم",
+  "University_State": "قم"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شهید مطهری خوی",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "خوی",
+  "University_State": "آذربایجان غربی"
+ },
+ {
+  "University_name": "مرکز آموزش عالی امام خمینی سلماس",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "سلماس",
+  "University_State": "آذربایجان غربی"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شهید میرشاکی الیگودرز",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "الیگودرز",
+  "University_State": "لرستان"
+ },
+ {
+  "University_name": "مرکز آموزش عالی علامه طباطبایی سبزوار",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "سبزوار",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "مرکز آموزش عالی دانشور نیشابور",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "نیشابور",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "مرکز آموزش عالی ثامن‌الحجج مشهد",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "مشهد",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شهید رجائی تربت حیدریه",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "تربت حیدریه",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "مرکز آموزش عالی علامه طباطبایی سبزوار",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "سبزوار",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "مرکز آموزش عالی دانشور نیشابور",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "نیشابور",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "مرکز آموزش عالی ثامن‌الحجج مشهد",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "مشهد",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شهید رجائی تربت حیدریه",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "تربت حیدریه",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شهید میرشاکی الیگودرز",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "الیگودرز",
+  "University_State": "لرستان"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شهید مطهری خوی",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "خوی",
+  "University_State": "آذربایجان غربی"
+ },
+ {
+  "University_name": "مرکز آموزش عالی امام خمینی سلماس",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "سلماس",
+  "University_State": "آذربایجان غربی"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شهید مدنی قم",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "قم",
+  "University_State": "قم"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شهید رجایی بابل",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "بابل",
+  "University_State": "مازندران"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شهید مطهری نوشهر",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "نوشهر",
+  "University_State": "مازندران"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شهید حسینی طباطبایی زاهدان",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "زاهدان",
+  "University_State": "سیستان و بلوچستان"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شهید بهشتی گنبدکاووس",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "گنبد کاووس",
+  "University_State": "گلستان"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شهید باهنر تهران",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شهید شرافت تهران",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "مرکز آموزش عالی عترت واوان",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "مرکز آموزش عالی سلمان فارسی شیراز",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "شیراز",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "مرکز آموزش عالی زینب کبری کازرون",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "کازرون",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "مرکز آموزش عالی لارستان",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "لارستان",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "مرکز آموزش عالی زینب کبری بروجرد",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "بروجرد",
+  "University_State": "لرستان"
+ },
+ {
+  "University_name": "مرکز آموزش عالی دکتر آیت نجف‌آباد",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "نجف‌آباد",
+  "University_State": "اصفهان"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شهید رجایی اصفهان",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "اصفهان",
+  "University_State": "اصفهان"
+ },
+ {
+  "University_name": "مرکز آموزش عالی حضرت خدیجه کبری دزفول",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "دزفول",
+  "University_State": "خوزستان"
+ },
+ {
+  "University_name": "مرکز آموزش عالی بیت‌الهدی آمل",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "آمل",
+  "University_State": "مازندران"
+ },
+ {
+  "University_name": "مرکز آموزش عالی حضرت فاطمه قائم‌شهر",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "قائم شهر",
+  "University_State": "مازندران"
+ },
+ {
+  "University_name": "مرکز آموزش عالی بنت‌الهدی صدر فردوس",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "فردوس",
+  "University_State": "خراسان جنوبی"
+ },
+ {
+  "University_name": "مرکز آموزش عالی بلال حبشی تهران",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شهید بهشتی تهران",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شهدای مکه تهران",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "مرکز آموزش عالی بعثت شیراز",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "شیراز",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شهید بهشتی اقلید",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "اقلید",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شهید مطهری زرقان",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "زرقان",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "مرکز آموزش عالی امام خمینی کاشان",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "کاشان",
+  "University_State": "اصفهان"
+ },
+ {
+  "University_name": "مرکز آموزش عالی امام جعفر صادق بهبهان",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "بهبهان",
+  "University_State": "خوزستان"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شیخ مرتضی انصاری دزفول",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "دزفول",
+  "University_State": "خوزستان"
+ },
+ {
+  "University_name": "مرکز آموزش عالی امام رضا اندیمشک",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "اندیمشک",
+  "University_State": "خوزستان"
+ },
+ {
+  "University_name": "مرکز آموزش عالی ابن سینا همدان",
+  "University_type": "مراکزآموزش عالی(وزارت آموزش و پرورش)",
+  "University_city": "همدان",
+  "University_State": "همدان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای شهید چمران",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "اهر",
+  "University_State": "آذربایجان شرقی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران سراب",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "سراب",
+  "University_State": "آذربایجان شرقی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران شماره دو تبریز",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "تبریز",
+  "University_State": "آذربایجان شرقی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران میانه",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "میانه",
+  "University_State": "آذربایجان شرقی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران تبریز",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "تبریز",
+  "University_State": "آذربایجان شرقی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران مراغه",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "مراغه",
+  "University_State": "آذربایجان شرقی"
+ },
+ {
+  "University_name": "آموزشکده فنی و کشاورزی پسران مراغه",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "مراغه",
+  "University_State": "آذربایجان شرقی"
+ },
+ {
+  "University_name": "دانشکده فنی و حرفه‌ای پسران شماره یک تبریز",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "تبریز",
+  "University_State": "آذربایجان شرقی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران ارومیه",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "ارومیه",
+  "University_State": "آذربایجان غربی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای شهید بهشتی",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "ارومیه",
+  "University_State": "آذربایجان غربی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران خوی",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "خوی",
+  "University_State": "آذربایجان غربی"
+ },
+ {
+  "University_name": "دانشکده فنی و حرفه‌ای شهید قاضی طباطبایی",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "ارومیه",
+  "University_State": "آذربایجان غربی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران اردبیل",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "اردبیل",
+  "University_State": "اردبیل"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران خلخال",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "خلخال",
+  "University_State": "اردبیل"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران اردبیل",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "اردبیل",
+  "University_State": "اردبیل"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران شاهین‌شهر",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "شاهین‌شهر",
+  "University_State": "اصفهان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای خوارزمی",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "شهرضا",
+  "University_State": "اصفهان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای شهید رجایی",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "کاشان",
+  "University_State": "اصفهان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای شهدا",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "گلپایگان",
+  "University_State": "اصفهان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران اصفهان",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "اصفهان",
+  "University_State": "اصفهان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران خوانسار",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "خوانسار",
+  "University_State": "اصفهان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران کاشان",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "کاشان",
+  "University_State": "اصفهان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای سمیه",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "نجف‌آباد",
+  "University_State": "اصفهان"
+ },
+ {
+  "University_name": "دانشکده فنی و حرفه‌ای شهید محسن مهاجر",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "اصفهان",
+  "University_State": "اصفهان"
+ },
+ {
+  "University_name": "دانشکده فنی و حرفه‌ای سروش",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "اصفهان",
+  "University_State": "اصفهان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران شهرضا",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "شهرضا",
+  "University_State": "اصفهان"
+ },
+ {
+  "University_name": "آموزشکده کشاورزی پسران حبیب‌آباد",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "اصفهان",
+  "University_State": "اصفهان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران کرج",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "کرج",
+  "University_State": "البرز"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران کرج",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "کرج",
+  "University_State": "البرز"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران ایلام",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "ایلام",
+  "University_State": "ایلام"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران ایلام",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "ایلام",
+  "University_State": "ایلام"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران بوشهر",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "بوشهر",
+  "University_State": "بوشهر"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران بوشهر",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "بوشهر",
+  "University_State": "بوشهر"
+ },
+ {
+  "University_name": "دانشکده فنی و حرفه‌ای شهید شمسی‌پور",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران صفادشت",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "صفادشت",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای ولیعصر",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "آموزشکده کشاورزی پسران پاکدشت",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "پاکدشت",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "آموزشکده کشاورزی پسران دماوند",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "دماوند",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشکده فنی و حرفه‌ای انقلاب اسلامی",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشکده فنی و حرفه‌ای دکتر شریعتی",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "آموزشکده کشاورزی پسران شهریار",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "شهریار",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران جونقان",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "جونقان",
+  "University_State": "چهارمحال و بختیاری"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران شهرکرد",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "شهرکرد",
+  "University_State": "چهارمحال و بختیاری"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران بروجن",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "بروجن",
+  "University_State": "چهارمحال و بختیاری"
+ },
+ {
+  "University_name": "آموزشکده کشاورزی پسران شهرکرد",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "شهرکرد",
+  "University_State": "چهارمحال و بختیاری"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران شهرکرد",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "شهرکرد",
+  "University_State": "چهارمحال و بختیاری"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران بیرجند",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "بیرجند",
+  "University_State": "خراسان جنوبی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران طبس",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "طبس",
+  "University_State": "خراسان جنوبی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران فردوس",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "فردوس",
+  "University_State": "خراسان جنوبی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران قائن",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "قائن",
+  "University_State": "خراسان جنوبی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران بیرجند",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "بیرجند",
+  "University_State": "خراسان جنوبی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران تربت حیدریه",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "تربت حیدریه",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران سبزوار",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "سبزوار",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای ثامن‌الحجج",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "مشهد",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران گناباد",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "گناباد",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران سبزوار",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "سبزوار",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران مشهد",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "مشهد",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران نیشابور",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "نیشابور",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران نیشابور",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "نیشابور",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "دانشکده فنی و حرفه‌ای شهید منتظری",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "مشهد",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران قوچان",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "قوچان",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "موزشکده کشاورزی پسران نیشابور",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "نیشابور",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران جاجرم",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "جاجرم",
+  "University_State": "خراسان شمالی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران شیروان",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "شیروان",
+  "University_State": "خراسان شمالی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران بجنورد",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "بجنورد",
+  "University_State": "خراسان شمالی"
+ },
+ {
+  "University_name": "آموزشکده کشاورزی پسران سمنگان",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "آشخانه",
+  "University_State": "خراسان شمالی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران بجنورد",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "بجنورد",
+  "University_State": "خراسان شمالی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران دزفول",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "دزفول",
+  "University_State": "خوزستان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران شماره دو اهواز",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "اهواز",
+  "University_State": "خوزستان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای شهید چمران",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "اهواز",
+  "University_State": "خوزستان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران اهواز",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "اهواز",
+  "University_State": "خوزستان"
+ },
+ {
+  "University_name": "آموزشکده کشاورزی پسران اهواز",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "اهواز",
+  "University_State": "خوزستان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران زنجان",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "زنجان",
+  "University_State": "زنجان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران زنجان",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "زنجان",
+  "University_State": "زنجان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران سمنان",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "سمنان",
+  "University_State": "سمنان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران شاهرود",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "شاهرود",
+  "University_State": "سمنان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران سمنان",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "سمنان",
+  "University_State": "سمنان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران امیریه",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "امیریه",
+  "University_State": "سمنان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران شماره یک زاهدان",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "زاهدان",
+  "University_State": "سیستان و بلوچستان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران زاهدان",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "زاهدان",
+  "University_State": "سیستان و بلوچستان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران شماره دو زاهدان",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "زاهدان",
+  "University_State": "سیستان و بلوچستان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران زابل",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "زابل",
+  "University_State": "سیستان و بلوچستان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران شیراز",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "شیراز",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران نی‌ریز",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "نی‌ریز",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران استهبان",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "استهبان",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران آباده",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "آباده",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران شماره دو شیراز",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "شیراز",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران لارستان",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "لار",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران مرودشت",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "مرودشت",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران ممسنی",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "نورآباد",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران اقلید",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "اقلید",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران کازرون",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "کازرون",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "دانشکده فنی و حرفه‌ای شهید باهنر",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "شیراز",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "آموزشکده فنی و کشاورزی فسا",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "فسا",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران داراب",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "داراب",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران فیروزآباد",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "فیروزآباد",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای شهید بابایی",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "قزوین",
+  "University_State": "قزوین"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران قزوین",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "قزوین",
+  "University_State": "قزوین"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران قم",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "قم",
+  "University_State": "قم"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران قم",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "قم",
+  "University_State": "قم"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران سقز",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "سقز",
+  "University_State": "کردستان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای شهید یزدان‌پناه",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "سنندج",
+  "University_State": "کردستان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران سنندج",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "سنندج",
+  "University_State": "کردستان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران ارزوئیه",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "ارزوئیه",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران بافت",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "بافت",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران بم",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "بم",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران جیرفت",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "جیرفت",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران زرند",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "زرند",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران سیرجان",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "سیرجان",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران شماره دو کرمان",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "کرمان",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران سیرجان",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "سیرجان",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "آموزشکده کشاورزی رضوان",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "کرمان",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "دانشکده فنی و حرفه‌ای شهید چمران",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "کرمان",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران شهر بابک",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "شهر بابک",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران کرمان",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "کرمان",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه ای پسران رفسنجان",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "رفسنجان",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه ای دختران رفسنجان",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "رفسنجان",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران شماره دو کرمانشاه",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "کرمانشاه",
+  "University_State": "کرمانشاه"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران شماره یک کرمانشاه",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "کرمانشاه",
+  "University_State": "کرمانشاه"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران کرمانشاه",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "کرمانشاه",
+  "University_State": "کرمانشاه"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران اسلام‌آباد غرب",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "اسلام‌آباد غرب",
+  "University_State": "کرمانشاه"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران یاسوج",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "یاسوج",
+  "University_State": "کهگیلویه و بویراحمد"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران یاسوج",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "یاسوج",
+  "University_State": "کهگیلویه و بویراحمد"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران علی‌آباد کتول",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "علی‌آباد کتول",
+  "University_State": "گلستان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران گرگان",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "گرگان",
+  "University_State": "گلستان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران گنبد کاووس",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "گنبد کاووس",
+  "University_State": "گلستان"
+ },
+ {
+  "University_name": "دانشکده فنی و حرفه‌ای پسران کردکوی",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "کردکوی",
+  "University_State": "گلستان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران گرگان",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "گرگان",
+  "University_State": "گلستان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران آستانه اشرفیه",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "آستانه اشرفیه",
+  "University_State": "گیلان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران بندر انزلی",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "بندر انزلی",
+  "University_State": "گیلان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران رستم‌آباد",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "رستم‌آباد",
+  "University_State": "گیلان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای شهید چمران",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "رشت",
+  "University_State": "گیلان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای شهید رجایی",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "لاهیجان",
+  "University_State": "گیلان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران رشت",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "رشت",
+  "University_State": "گیلان"
+ },
+ {
+  "University_name": "دانشکده فنی و حرفه‌ای پسران صومعه‌سرا",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "صومعه‌سرا",
+  "University_State": "گیلان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران خرم‌آباد",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "خرم‌آباد",
+  "University_State": "لرستان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران دورود",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "دورود",
+  "University_State": "لرستان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران خرم‌آباد",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "خرم‌آباد",
+  "University_State": "لرستان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران بروجرد",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "بروجرد",
+  "University_State": "لرستان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران بروجرد",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "بروجرد",
+  "University_State": "لرستان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران بابل",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "بابل",
+  "University_State": "مازندران"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران آمل",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "آمل",
+  "University_State": "مازندران"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران بهشهر",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "بهشهر",
+  "University_State": "مازندران"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران رامسر",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "رامسر",
+  "University_State": "مازندران"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران شماره دو ساری",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "ساری",
+  "University_State": "مازندران"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران آمل",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "آمل",
+  "University_State": "مازندران"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران بابل",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "بابل",
+  "University_State": "مازندران"
+ },
+ {
+  "University_name": "دانشکده فنی و حرفه‌ای امام محمدباقر",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "ساری",
+  "University_State": "مازندران"
+ },
+ {
+  "University_name": "دانشکده فنی و حرفه‌ای پسران محمودآباد",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "محمودآباد",
+  "University_State": "مازندران"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران ساری",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "ساری",
+  "University_State": "مازندران"
+ },
+ {
+  "University_name": "آموزشکده کشاورزی پسران ساری",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "ساری",
+  "University_State": "مازندران"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران نوشهر",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "نوشهر",
+  "University_State": "مازندران"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای امیرکبیر",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "اراک",
+  "University_State": "مرکزی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران خمین",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "خمین",
+  "University_State": "مرکزی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران ساوه",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "ساوه",
+  "University_State": "مرکزی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران اراک",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "اراک",
+  "University_State": "مرکزی"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران بندرعباس",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "بندرعباس",
+  "University_State": "هرمزگان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران میناب",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "میناب",
+  "University_State": "هرمزگان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران بندرعباس",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "بندرعباس",
+  "University_State": "هرمزگان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران همدان",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "همدان",
+  "University_State": "همدان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دیباج",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "همدان",
+  "University_State": "همدان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران ملایر",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "ملایر",
+  "University_State": "همدان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران نهاوند",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "نهاوند",
+  "University_State": "همدان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران ملایر",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "ملایر",
+  "University_State": "همدان"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای شهید مفتح",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "همدان",
+  "University_State": "همدان"
+ },
+ {
+  "University_name": "دانشکده فنی و حرفه‌ای شهید صدوقی",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "یزد",
+  "University_State": "یزد"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران ابرکوه",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "ابرکوه",
+  "University_State": "یزد"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای امام علی",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "یزد",
+  "University_State": "یزد"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای امام خمینی",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "میبد",
+  "University_State": "یزد"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران میبد",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "میبد",
+  "University_State": "یزد"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای دختران یزد",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "یزد",
+  "University_State": "یزد"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران اردکان",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "اردکان",
+  "University_State": "یزد"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران خاتم",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "خاتم",
+  "University_State": "یزد"
+ },
+ {
+  "University_name": "آموزشکده فنی و حرفه‌ای پسران تفت",
+  "University_type": "دولتی( فنی و حرفه ای)",
+  "University_city": "تفت",
+  "University_State": "یزد"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی آذربایجان شرقی",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "آذربایجان شرقی",
+  "University_State": "آذربایجان شرقی"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی آذربایجان غربی",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "آذزبایجان غربی",
+  "University_State": "آذربایجان غربی"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی اردبیل",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "اردبیل",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی اصفهان",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "اصفهان",
+  "University_State": "اصفهان"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی البرز",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "البرز",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی ایلام",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "ایلام",
+  "University_State": "ایلام"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی بوشهر",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "بوشهر",
+  "University_State": "بوشهر"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی تهران",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی چهارمحال بختیاری",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "چهارمحال بختیاری",
+  "University_State": "چهارمحال و بختیاری"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی خراسان جنوبی",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "خراسان جنوبی",
+  "University_State": "خراسان جنوبی"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی خراسان رضوی",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "خراسان رضوی",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی خراسان شمالی",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "خراسان شمالی",
+  "University_State": "خراسان شمالی"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی خوزستان",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "اهواز",
+  "University_State": "خوزستان"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی زنجان",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "زنجان",
+  "University_State": "زنجان"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی سمنان",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "سمنان",
+  "University_State": "سمنان"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی سیستان و بلوچستان",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "سیستان وبلوچستان",
+  "University_State": "سیستان و بلوچستان"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی فارس",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "فارس",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی قزوین",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "قزوین",
+  "University_State": "قزوین"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی قم",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "قم",
+  "University_State": "قم"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی کردستان",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "کردستان",
+  "University_State": "کردستان"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی کرمان",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "کرمان",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی کرمانشاه",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "کرمانشاه",
+  "University_State": "کرمانشاه"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی کهگیلویه و بویراحمد",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "کهگیلویه و بویر احمد",
+  "University_State": "کهگیلویه و بویراحمد"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی گلستان",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "گلستان",
+  "University_State": "گلستان"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی گیلان",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "گیلان",
+  "University_State": "گیلان"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی لرستان",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "لرستان",
+  "University_State": "لرستان"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی مازندران",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "مازندران",
+  "University_State": "مازندران"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی مرکزی",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "مرکزی",
+  "University_State": "مرکزی"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی هرمزگان",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "هرمزگان",
+  "University_State": "هرمزگان"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی همدان",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "همدان",
+  "University_State": "همدان"
+ },
+ {
+  "University_name": "دانشگاه جامع علمی کاربردی یزد",
+  "University_type": "( علمی-کاربردی)",
+  "University_city": "یزد",
+  "University_State": "یزد"
+ },
+ {
+  "University_name": "دانشگاه افسری امام علی",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علوم و معارف قرآن کریم",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علوم قرآنی",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه امام صادق",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه جامع امام حسین",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده پست و مخابرات ایران",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه شهید مطهری",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده صدا و سیما",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "قم",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه صنایع و معادن ایران",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه صنعت نفت",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "آبادان\/تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه صنعتی اردبیل",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "اردبیل",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه صنعتی سیستان و بلوچستان",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "سیستان وبلوچستان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه صنعتی مالک اشتر",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "سیستان وبلوچستان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علوم انتظامی امین",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده علوم سیاسی و، فرهنگ و ارتباطات شهید محلاتی (ره)",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "قم",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده علوم قضایی و خدمات اداری",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علوم کشاورزی و منابع طبیعی ساری",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "ساری",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علوم وفنون فارابی",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه مذاهب اسلامی",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه هوایی شهید ستاری",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده فنی شهید شمسی پور",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده فنی امام خمینی (ره) سبزوار",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "سبزوار",
+  "University_State": "-"
+ },
+ {
+  "University_name": "آموزشکده آمار و انفورماتیک",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "آموزشکده فنی پسران اراک",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "اراک",
+  "University_State": "-"
+ },
+ {
+  "University_name": "آموزشکده فنی پسران علی آبادکتول",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "علی آباد کتول",
+  "University_State": "-"
+ },
+ {
+  "University_name": "آموزشکده فنی پسران گلپایگان",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "گلپایگان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "آموزشکده فنی علی ابن ابیطالب بم",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "بم",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "آموزشکده فنی مهندسی ایلام",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "ایلام",
+  "University_State": "ایلام"
+ },
+ {
+  "University_name": "آموزشکده فنی پسران دزفول (دکتر عصاریان)",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "دزفول",
+  "University_State": "-"
+ },
+ {
+  "University_name": "آموزشکده محیط زیست کرج",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "کرج",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه امام باقر",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده تربیت دبیر فنی صومعه سرا",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "صومعه سرا",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده حفاظت و بهداشت کار",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده صنایع مخابرات ایران (شیراز)",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "شیراز",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده علمی کاربردی پست و مخابرات",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده فنی انقلاب اسلامی",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده فنی پسران نیشابور",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "نیشابور",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده فنی دکتر شریعتی",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده فنی ولیعصر (عج) تهران",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده فنی ملاصدرا رامسر",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "رامسر",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده فنی مهندسی ثامن الحجج (ع) مشهد",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "مشهد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده فنی مهندسی شهید محمد منتظری مشهد",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "مشهد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده فنی مهندسی علی‌آباد کتول",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "علی آباد کتول",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده فنی شهید مهاجر",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "اصفهان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "پژوهشکده محیط زیست و توسعه پایدار",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده کشاورزی شهید رجایی نیشابور",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "نیشابور",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده کشاورزی و دامپروری تربت جام",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "تربت جام",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "دانشکده و آموزشکده دختران آمل",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "امل",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مرکز آموزش عالی تربیت مربی عقیدتی سیاسی",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "قم",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مرکز آموزش عالی فنی الغدیر زنجان",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "زنجان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مرکز بین‌المللی علوم و تکنولوژی پیشرفته و علوم محیطی کرمان",
+  "University_type": "دولتی(دیگردولتی،وابسته به دیگر وزارتخانه ها یا سازمان های دولتی)",
+  "University_city": "کرمان",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی آبادان",
+  "University_type": "آزاد اسلامی",
+  "University_city": "ابادان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی آباده",
+  "University_type": "آزاد اسلامی",
+  "University_city": "اباده",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی آبدانان",
+  "University_type": "آزاد اسلامی",
+  "University_city": "ابدانان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی ابرکوه",
+  "University_type": "آزاد اسلامی",
+  "University_city": "ابرکوه",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی ابهر",
+  "University_type": "آزاد اسلامی",
+  "University_city": "ابهر",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی اراک",
+  "University_type": "آزاد اسلامی",
+  "University_city": "اراک",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی اردبیل",
+  "University_type": "آزاد اسلامی",
+  "University_city": "اردبیل",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی ارسنجان",
+  "University_type": "آزاد اسلامی",
+  "University_city": "ارسنجان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی ارومیه",
+  "University_type": "آزاد اسلامی",
+  "University_city": "ارومیه",
+  "University_State": "آذربایجان غربی"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی آزادشهر",
+  "University_type": "آزاد اسلامی",
+  "University_city": "آزادشهر",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی استهبان",
+  "University_type": "آزاد اسلامی",
+  "University_city": "استهبان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی اسفراین",
+  "University_type": "آزاد اسلامی",
+  "University_city": "اسفراین",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی اسکو",
+  "University_type": "آزاد اسلامی",
+  "University_city": "اسکو",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی اسلامشهر",
+  "University_type": "آزاد اسلامی",
+  "University_city": "اسلامشهر",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی آشتیان",
+  "University_type": "آزاد اسلامی",
+  "University_city": "آشتیان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی اقلید",
+  "University_type": "آزاد اسلامی",
+  "University_city": "اقلید",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی الیگودرز",
+  "University_type": "آزاد اسلامی",
+  "University_city": "الیگودرز",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی امیدیه",
+  "University_type": "آزاد اسلامی",
+  "University_city": "امیدیه",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی اوز",
+  "University_type": "آزاد اسلامی",
+  "University_city": "اوز",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی اهر",
+  "University_type": "آزاد اسلامی",
+  "University_city": "اهر",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد اهواز",
+  "University_type": "آزاد اسلامی",
+  "University_city": "اهواز",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد آیت‌الله آملی",
+  "University_type": "آزاد اسلامی",
+  "University_city": "آمل",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی ایذه",
+  "University_type": "آزاد اسلامی",
+  "University_city": "ایذه",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی ایلام",
+  "University_type": "آزاد اسلامی",
+  "University_city": "ایلام",
+  "University_State": "ایلام"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی ایلخچی",
+  "University_type": "آزاد اسلامی",
+  "University_city": "ایلخچی",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی بافت",
+  "University_type": "آزاد اسلامی",
+  "University_city": "بافت",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی بابل",
+  "University_type": "آزاد اسلامی",
+  "University_city": "بابل",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی بجنورد",
+  "University_type": "آزاد اسلامی",
+  "University_city": "بجنورد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد بردسکن",
+  "University_type": "آزاد اسلامی",
+  "University_city": "بردسکن",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی بندرانزلی",
+  "University_type": "آزاد اسلامی",
+  "University_city": "بندر انزلی",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی بندرانزلی",
+  "University_type": "آزاد اسلامی",
+  "University_city": "بندر انزلی",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی بندرگز",
+  "University_type": "آزاد اسلامی",
+  "University_city": "بندرگز",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی بروجرد",
+  "University_type": "آزاد اسلامی",
+  "University_city": "بروجرد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی بوئین زهرا",
+  "University_type": "آزاد اسلامی",
+  "University_city": "بوئین زهرا",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی بهارستان",
+  "University_type": "آزاد اسلامی",
+  "University_city": "بهارستان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی بهبهان",
+  "University_type": "آزاد اسلامی",
+  "University_city": "بهبهان",
+  "University_State": "خوزستان"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی بهشهر",
+  "University_type": "آزاد اسلامی",
+  "University_city": "بهشهر",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی بیرجند",
+  "University_type": "آزاد اسلامی",
+  "University_city": "بیرجد",
+  "University_State": "خراسان جنوبی"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی پردیس",
+  "University_type": "آزاد اسلامی",
+  "University_city": "پردیس",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی پارس‌آباد",
+  "University_type": "آزاد اسلامی",
+  "University_city": "پارس آباد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی پرند",
+  "University_type": "آزاد اسلامی",
+  "University_city": "پرند",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی تاکستان",
+  "University_type": "آزاد اسلامی",
+  "University_city": "تاکستان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی تبریز",
+  "University_type": "آزاد اسلامی",
+  "University_city": "تبریز",
+  "University_State": "آذربایجان شرقی"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی تربت حیدریه",
+  "University_type": "آزاد اسلامی",
+  "University_city": "تربت حیدریه",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی تفرش",
+  "University_type": "آزاد اسلامی",
+  "University_city": "تفرش",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی تنکابن",
+  "University_type": "آزاد اسلامی",
+  "University_city": "تنکابن",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی تویسرکان",
+  "University_type": "آزاد اسلامی",
+  "University_city": "تویسرکان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد پزشکی تهران",
+  "University_type": "آزاد اسلامی",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد تهران مرکزی",
+  "University_type": "آزاد اسلامی",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد تهران غرب",
+  "University_type": "آزاد اسلامی",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد تهران شرق",
+  "University_type": "آزاد اسلامی",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد رشت",
+  "University_type": "آزاد اسلامی",
+  "University_city": "رشت",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد تهران شمال",
+  "University_type": "آزاد اسلامی",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد علوم و تحقیقات تهران",
+  "University_type": "آزاد اسلامی",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد تهران جنوب",
+  "University_type": "آزاد اسلامی",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد تیران",
+  "University_type": "آزاد اسلامی",
+  "University_city": "تیران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد جویبار",
+  "University_type": "آزاد اسلامی",
+  "University_city": "جویبار",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد جهرم",
+  "University_type": "آزاد اسلامی",
+  "University_city": "جهرم",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد جیرفت",
+  "University_type": "آزاد اسلامی",
+  "University_city": "جیرفت",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد چالوس",
+  "University_type": "آزاد اسلامی",
+  "University_city": "چالوس",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد خدابنده",
+  "University_type": "آزاد اسلامی",
+  "University_city": "خدابنده",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی خرم‌آباد",
+  "University_type": "آزاد اسلامی",
+  "University_city": "خرم آباد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی خوراسگان",
+  "University_type": "آزاد اسلامی",
+  "University_city": "خوراسگان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد خوی",
+  "University_type": "آزاد اسلامی",
+  "University_city": "خوی",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی داراب",
+  "University_type": "آزاد اسلامی",
+  "University_city": "داراب",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی دامغان",
+  "University_type": "آزاد اسلامی",
+  "University_city": "دامغان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی دزفول",
+  "University_type": "آزاد اسلامی",
+  "University_city": "دزفول",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی دماوند",
+  "University_type": "آزاد اسلامی",
+  "University_city": "دماوند",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی دولت‌آباد",
+  "University_type": "آزاد اسلامی",
+  "University_city": "دولت آباد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی دورود",
+  "University_type": "آزاد اسلامی",
+  "University_city": "دورود",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی دهاقان",
+  "University_type": "آزاد اسلامی",
+  "University_city": "دهاقان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی دهلران",
+  "University_type": "آزاد اسلامی",
+  "University_city": "دهلران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی رامهرمز",
+  "University_type": "آزاد اسلامی",
+  "University_city": "رامهرمز",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی رودهن",
+  "University_type": "آزاد اسلامی",
+  "University_city": "رودهن",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد زرقان",
+  "University_type": "آزاد اسلامی",
+  "University_city": "زرقان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی زنجان",
+  "University_type": "آزاد اسلامی",
+  "University_city": "زنجان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی ساری",
+  "University_type": "آزاد اسلامی",
+  "University_city": "ساری",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی ساوه",
+  "University_type": "آزاد اسلامی",
+  "University_city": "ساوه",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی سبزوار",
+  "University_type": "آزاد اسلامی",
+  "University_city": "سبزوار",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی سپیدان",
+  "University_type": "آزاد اسلامی",
+  "University_city": "سپیدان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی سروستان",
+  "University_type": "آزاد اسلامی",
+  "University_city": "سروستان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی سلماس",
+  "University_type": "آزاد اسلامی",
+  "University_city": "سولماس",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی سمنان",
+  "University_type": "آزاد اسلامی",
+  "University_city": "سمنان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی سنقر",
+  "University_type": "آزاد اسلامی",
+  "University_city": "سنقر",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی سنندج",
+  "University_type": "آزاد اسلامی",
+  "University_city": "سنندج",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی سوادکوه",
+  "University_type": "آزاد اسلامی",
+  "University_city": "سوادکوه",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی شاهرود",
+  "University_type": "آزاد اسلامی",
+  "University_city": "شاهرود",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی شبستر",
+  "University_type": "آزاد اسلامی",
+  "University_city": "شبستر",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی شوشتر",
+  "University_type": "آزاد اسلامی",
+  "University_city": "شوشتر",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی شهرری",
+  "University_type": "آزاد اسلامی",
+  "University_city": "شهر ری",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی شهرضا",
+  "University_type": "آزاد اسلامی",
+  "University_city": "شهرضا",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی شهر مجلسی",
+  "University_type": "آزاد اسلامی",
+  "University_city": "شهرمجلسی",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی شهر قدس",
+  "University_type": "آزاد اسلامی",
+  "University_city": "قدس",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد شهریار",
+  "University_type": "آزاد اسلامی",
+  "University_city": "شهریار",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی شیراز",
+  "University_type": "آزاد اسلامی",
+  "University_city": "شیراز",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی شیروان",
+  "University_type": "آزاد اسلامی",
+  "University_city": "شیروان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی علی‌آباد کتول",
+  "University_type": "آزاد اسلامی",
+  "University_city": "علی آبادکتول",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی فسا",
+  "University_type": "آزاد اسلامی",
+  "University_city": "فسا",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی فردوس",
+  "University_type": "آزاد اسلامی",
+  "University_city": "فردوس",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی فیروزآباد",
+  "University_type": "آزاد اسلامی",
+  "University_city": "فیروزآباد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی فیروزکوه",
+  "University_type": "آزاد اسلامی",
+  "University_city": "فیروزکوه",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی قائمشهر",
+  "University_type": "آزاد اسلامی",
+  "University_city": "قائمشهر",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی قزوین",
+  "University_type": "آزاد اسلامی",
+  "University_city": "قزوین",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد قم",
+  "University_type": "آزاد اسلامی",
+  "University_city": "قم",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد علوم پزشکی قم",
+  "University_type": "آزاد اسلامی",
+  "University_city": "قم",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی کاشان",
+  "University_type": "آزاد اسلامی",
+  "University_city": "کاشان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی کازرون",
+  "University_type": "آزاد اسلامی",
+  "University_city": "کازرون",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی کرج",
+  "University_type": "آزاد اسلامی",
+  "University_city": "کرج",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی کرمان",
+  "University_type": "آزاد اسلامی",
+  "University_city": "کرمان",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی کرمانشاه",
+  "University_type": "آزاد اسلامی",
+  "University_city": "کرمانشاه",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی گرگان",
+  "University_type": "آزاد اسلامی",
+  "University_city": "گرگان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد گرمسار",
+  "University_type": "آزاد اسلامی",
+  "University_city": "گرمسار",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد گناباد",
+  "University_type": "آزاد اسلامی",
+  "University_city": "گناباد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی گنبدکاووس",
+  "University_type": "آزاد اسلامی",
+  "University_city": "گنبدکاووس",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی لارستان",
+  "University_type": "آزاد اسلامی",
+  "University_city": "لارستان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی لاهیجان",
+  "University_type": "آزاد اسلامی",
+  "University_city": "لاهیجان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی لامرد",
+  "University_type": "آزاد اسلامی",
+  "University_city": "لامرد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی ماکو",
+  "University_type": "آزاد اسلامی",
+  "University_city": "ماکو",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی مرودشت",
+  "University_type": "آزاد اسلامی",
+  "University_city": "مرودشت",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد ملایر",
+  "University_type": "آزاد اسلامی",
+  "University_city": "ملایر",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد ملارد",
+  "University_type": "آزاد اسلامی",
+  "University_city": "ملارد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی مسجدسلیمان",
+  "University_type": "آزاد اسلامی",
+  "University_city": "مسجدسلیمان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی مشهد",
+  "University_type": "آزاد اسلامی",
+  "University_city": "مشهد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد ممقان",
+  "University_type": "آزاد اسلامی",
+  "University_city": "ممقان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد مهاباد",
+  "University_type": "آزاد اسلامی",
+  "University_city": "مهاباد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی مهدی‌شهر",
+  "University_type": "آزاد اسلامی",
+  "University_city": "مهدی شهر",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد میانه",
+  "University_type": "آزاد اسلامی",
+  "University_city": "میانه ",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی میبد",
+  "University_type": "آزاد اسلامی",
+  "University_city": "میبد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی نجف آباد",
+  "University_type": "آزاد اسلامی",
+  "University_city": "نجف آباد ",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی مرکز بین‌المللی خلیج فارس",
+  "University_type": "آزاد اسلامی",
+  "University_city": "خرمشهر",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی نراق",
+  "University_type": "آزاد اسلامی",
+  "University_city": "نراق",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد نهاوند",
+  "University_type": "آزاد اسلامی",
+  "University_city": "نهاوند",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد نور",
+  "University_type": "آزاد اسلامی",
+  "University_city": "نور",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد نوشهر",
+  "University_type": "آزاد اسلامی",
+  "University_city": "نوشهر",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی نی‌ریز",
+  "University_type": "آزاد اسلامی",
+  "University_city": "نی ریز",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی نیشابور",
+  "University_type": "آزاد اسلامی",
+  "University_city": "نیشابور",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی ورامین و پیشوا",
+  "University_type": "آزاد اسلامی",
+  "University_city": "پیشوا",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد هرند",
+  "University_type": "آزاد اسلامی",
+  "University_city": "هرند",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی همدان",
+  "University_type": "آزاد اسلامی",
+  "University_city": "همدان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی هیدج",
+  "University_type": "آزاد اسلامی",
+  "University_city": "هیدج",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد یاسوج",
+  "University_type": "آزاد اسلامی",
+  "University_city": "یاسوج",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد یزد",
+  "University_type": "آزاد اسلامی",
+  "University_city": "یزد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آزاد اسلامی واحد سراب",
+  "University_type": "آزاد اسلامی",
+  "University_city": "سراب",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده سما واحد ممقان",
+  "University_type": "دانشکده سما",
+  "University_city": "ممقان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده سما واحد اهواز",
+  "University_type": "دانشکده سما",
+  "University_city": "اهواز",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده سما واحد جهرم",
+  "University_type": "دانشکده سما",
+  "University_city": "جهرم",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "دانشکده سما واحد ملایر",
+  "University_type": "دانشکده سما",
+  "University_city": "ملایر",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده سما واحد اقلید",
+  "University_type": "دانشکده سما",
+  "University_city": "اقلید",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده سما واحد مهاباد",
+  "University_type": "دانشکده سما",
+  "University_city": "مهاباد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده سما واحد اردبیل",
+  "University_type": "دانشکده سما",
+  "University_city": "اردبیل",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده سما واحد ارسنجان",
+  "University_type": "دانشکده سما",
+  "University_city": "ارسنجان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده سما واحد پاکدشت",
+  "University_type": "دانشکده سما",
+  "University_city": "پاکدشت",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده سما واحد تهران",
+  "University_type": "دانشکده سما",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشکده سما واحد خرم‌آباد",
+  "University_type": "دانشکده سما",
+  "University_city": "خرم آباد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده سما واحد یاسوج",
+  "University_type": "دانشکده سما",
+  "University_city": "یاسوج",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده سما واحد بندرعباس",
+  "University_type": "دانشکده سما",
+  "University_city": "بندرعباس",
+  "University_State": "هرمزگان"
+ },
+ {
+  "University_name": "دانشکده سما واحد علی‌آباد کتول",
+  "University_type": "دانشکده سما",
+  "University_city": "علی آبادکتول",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده سما واحد رودهن",
+  "University_type": "دانشکده سما",
+  "University_city": "رودهن",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده سما واحد ساوه",
+  "University_type": "دانشکده سما",
+  "University_city": "ساوه",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده سما واحد سمنان",
+  "University_type": "دانشکده سما",
+  "University_city": "سمنان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده سما واحد سیاهکل",
+  "University_type": "دانشکده سما",
+  "University_city": "سیاهکل",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده سما واحد نیشابور",
+  "University_type": "دانشکده سما",
+  "University_city": "نیشابور",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده سما واحد کازرون",
+  "University_type": "دانشکده سما",
+  "University_city": "کازرون",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه سما واحد خمین",
+  "University_type": "دانشکده سما",
+  "University_city": "خمین",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده سما واحد آمل",
+  "University_type": "دانشکده سما",
+  "University_city": "آمل",
+  "University_State": "-"
+ },
+ {
+  "University_name": "موسسه آموزش عالی قدیر لنگرود",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "لنگرود",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علوم اسلامی رضوی",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "مشهد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی خاتم",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه آل طه",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه ابرار",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علم و فرهنگ",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه غیاث الدین جمشید کاشانی",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "آبیک",
+  "University_State": "-"
+ },
+ {
+  "University_name": "موسسه آموزش عالی بصیر",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "آبیک",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش مولانا",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "قزوین",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه غیرانتفاعی صدرالمتالهین (صدرا)",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی میرعماد قزوین",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "قزوین",
+  "University_State": "-"
+ },
+ {
+  "University_name": "موسسه آموزش عالی مهرالبرز",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "البرز",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی ادیبان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "گرمسار",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی علوم و توسعه آریا",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی غیرانتفاعی تعالی",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "قم",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی طلوع مهر قم",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "قم",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده آمار و انفورماتیک سازمان سنجش آموزش کشور",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه ادیان و مذاهب",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "قم",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه غیرانتفاعی اندیشه",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "جهرم",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه غیرانتفاعی هیمن",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": null,
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده اصول الدین",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه رایانه‌ای تهران",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشکده علوم حدیث",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "شهر ری",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده معارف قرآنی اصفهان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "اصفهان",
+  "University_State": "اصفهان"
+ },
+ {
+  "University_name": "دانشگاه باقرالعلوم",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "قم",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه بین‌المللی امام رضا",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "مشهد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه شیخ بهایی",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "اصفهان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه شمال",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "آمل",
+  "University_State": "-"
+ },
+ {
+  "University_name": "آمل",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "آمل",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علوم و فنون مازندران",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "مازندران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه علامه محدث نوری",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "مازندران\/نور",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه مفید",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "قم",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی ناصر خسرو- اتوبان ساوه - تهران کیلومتر 6",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی میزان تبریز",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "تبریز",
+  "University_State": "آذربایجان شرقی"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی آرادان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "آرادان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه ایوانکی",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "سمنان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مرکز آموزش عالی شرکت داده پردازی ایران",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی مولانا (آبیک)",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "آبیک",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی آبا(آبیک)",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "آبیک",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی غیاث الدین جمشید کاشانی(آبیک)",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "آبیک",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی آمل - آمل",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "آمل",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی ادیب مازندران",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "مازندران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی ادیبان یزد",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "یزد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی شرق گلستان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "گلستان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی شمس گنبدکاووس",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "گنبدکاووس",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی اسرار مشهد",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "مشهد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی اقبال لاهوری مشهد",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "مشهد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی باختر ایلام",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "ایلام",
+  "University_State": "ایلام"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی سفیر دانش ایلام",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "ایلام",
+  "University_State": "ایلام"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی بعثت کرمان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "کرمان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی بهار مشهد",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "مشهد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی پارسا بابلسر",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "بابلسر",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی پارسیان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "پارسیان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی پارس رضوی گناباد",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "گناباد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی پویا",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": null,
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی پیام گلپایگان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "گلپایگان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی تابناک لامرد",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "لامرد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی تابران",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "تابران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی توسعه دانش سنندج",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "سنندج",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی ثامن نیشابور",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "نیشابور",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی جابر بن حیان-رشت",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "رشت",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی جامی",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "جام",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی جاوید جیرفت",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "جیرفت",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسهٔ آموزش عالی جهاد دانشگاهی خوزستان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "اهواز",
+  "University_State": "خوزستان"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی جهاد دانشگاهی استان یزد",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "یزد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی حکمت قم",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "قم",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی خاوران مشهد",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "مشهد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی خراسان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "مشهد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی خرد گرایان مطهر مشهد",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "مشهد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه خیام مشهد",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "مشهد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی دارالعلم یزد",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "یزد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی دانش پژوهان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "پژوهان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی دانشوران تبریز",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "تبریز",
+  "University_State": "آذربایجان شرقی"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی رجا قزوین",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "قزوین",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی رسام",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "البرز",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی راه دانش بابل",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "بابل",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی رشدیه -تبریز",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "تبریز",
+  "University_State": "آذربایجان شرقی"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی روزبه زنجان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "زنجان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی روزبهان ساری",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "ساری",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی ساریان ساری",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "ساری",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی سبلان اردبیل",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "اردبیل",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی سبحان نیشابور",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "نیشابور",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه صنعتی سجاد مشهد",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "مشهد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی سبز آمل",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "آمل",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی سپهر اصفهان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "اصفهان",
+  "University_State": "اصفهان"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی سپاهان اصفهان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "اصفهان",
+  "University_State": "اصفهان"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی سلمان(مشهد)",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "مشهد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه سوره",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی سینا کاشان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "کاشان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی شاهرود",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "شاهرود",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی شهاب دانش قم",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "قم",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی شهریار آستارا",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "آستارا",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی شهید اشرفی اصفهانی",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "اصفهان",
+  "University_State": "اصفهان"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی صدرالمتألهین (صدرا)",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی صفاهان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "صفاهان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی صنعتی فولاد",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "فولاد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی صنعتی مازندران",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "مازندران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی طبرستان چالوس",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "چالوس",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی پویندگان دانش چالوس",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "چالوس",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی طبری بابل",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "بابل",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی عبدالرحمان صوفی رازی زنجان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "زنجان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی عطار مشهد",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "مشهد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی علامه جعفری رفسنجان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "رفسنجان",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی علامه دهخدا قزوین",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "قزوین",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی علامه فیض کاشانی",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": null,
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی علوم و فناوری آریان بابل",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "بابل",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی صالحان قایم شهر",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "قائم شهر",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی علوم و فناوری سپاهان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "سپاهان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی غزالی - قزوین",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "قزوین",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی فردوس",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "فردوس",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی فنی کرمان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "کرمان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی کار",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "موسسه آموزش عالی کاوش",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "محمودآباد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "موسسه آموزش عالی علاءالدوله سمنانی",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "سمنان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی کنسرواتوار تهران",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی کسری رامسر",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "رامسر",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی کومش سمنان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "سمنان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی لامعی گرگانی",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "گرگانی",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی مازیار رویان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "رویان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی مهرگان محلات",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "محلات",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی مهد علم کاشان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "کاشان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی مهر آستان-آستانه اشرفیه-رشت",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "آستانه اشرفیه",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی مهر اراک",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "اراک",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی میرداماد گرگان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "گرگان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی نبی اکرم تبریز",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "تبریز",
+  "University_State": "آذربایجان شرقی"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی نجف آباد",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "نجف آباد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی نورطوبی",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "تهران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی نهاوند",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "نهاوند",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی هدف -ساری",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "ساری",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی هرمزان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "هرمزان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی هنر کمال الملک نوشهر",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "نوشهر",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی دیلمان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "دیلمان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی غیرانتفاعی کارون",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "کارون",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی غیرانتفاعی گنجنامه همدان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "همدان",
+  "University_State": "همدان"
+ },
+ {
+  "University_name": "مؤسسه آموزشی و پژوهشی امام خمینی(ره)",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "قم",
+  "University_State": "-"
+ },
+ {
+  "University_name": "موسسه آموزش عالی ارشاد دماوند (واحد پسران)",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "دماوند",
+  "University_State": "-"
+ },
+ {
+  "University_name": "موسسه آموزش عالی ارشاد دماوند (واحد دختران)",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "دماوند",
+  "University_State": "-"
+ },
+ {
+  "University_name": "موسسه آموزش عالی سراج",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی",
+  "University_city": "سراج",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مؤسسه آموزش عالی راهبرد شمال رشت",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی(خصوصی)",
+  "University_city": "رشت",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده ریاضی و کامپیوتر خوانسار",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی(خصوصی)",
+  "University_city": "خوانسار",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده فنی و مهندسی گلپایگان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی(خصوصی)",
+  "University_city": "گلپایگان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده کشاورزی شیروان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی(خصوصی)",
+  "University_city": "شیروان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشکده کشاورزی و دامپروری تربت جام",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی(خصوصی)",
+  "University_city": "تربت جام",
+  "University_State": "خراسان رضوی"
+ },
+ {
+  "University_name": "دانشکده کشاورزی و منابع طبیعی داراب",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی(خصوصی)",
+  "University_city": "داراب",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مجتمع آموزش عالی اسفراین",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی(خصوصی)",
+  "University_city": "استفراین",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مجتمع آموزش عالی بم",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی(خصوصی)",
+  "University_city": "بم",
+  "University_State": "کرمان"
+ },
+ {
+  "University_name": "مجتمع آموزش عالی سراوان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی(خصوصی)",
+  "University_city": "سراوان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مجتمع آموزش عالی لارستان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی(خصوصی)",
+  "University_city": "لارستان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مجتمع آموزش عالی گناباد",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی(خصوصی)",
+  "University_city": "گناباد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مرکز آموزش عالی استهبان",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی(خصوصی)",
+  "University_city": "استهبان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مرکز آموزش عالی اقلید",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی(خصوصی)",
+  "University_city": "اقلید",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مرکز آموزش عالی کاشمر",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی(خصوصی)",
+  "University_city": "کاشمر",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مرکز آموزش عالی محلات",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی(خصوصی)",
+  "University_city": "محلات",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مرکز آموزش عالی لامرد",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی(خصوصی)",
+  "University_city": "لامرد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "مرکز آموزش عالی ممسنی",
+  "University_type": "موسسات آموزش عالی غیرانتفاعی(خصوصی)",
+  "University_city": "ممسنی",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور (سازمان مرکزی)",
+  "University_type": "پیام نور",
+  "University_city": null,
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور ممقان",
+  "University_type": "پیام نور",
+  "University_city": "ممقان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور الوند",
+  "University_type": "پیام نور",
+  "University_city": "الوند",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور قم",
+  "University_type": "پیام نور",
+  "University_city": "قم",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور بوشهر",
+  "University_type": "پیام نور",
+  "University_city": "بوشهر",
+  "University_State": "بوشهر"
+ },
+ {
+  "University_name": "دانشگاه پیام نور برازجان",
+  "University_type": "پیام نور",
+  "University_city": "برازجان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور پل سفید",
+  "University_type": "پیام نور",
+  "University_city": "پل سفید",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور تهران غرب",
+  "University_type": "پیام نور",
+  "University_city": "تهران",
+  "University_State": "تهران"
+ },
+ {
+  "University_name": "دانشگاه پیام نور کنگان",
+  "University_type": "پیام نور",
+  "University_city": "کنگان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور گناوه",
+  "University_type": "پیام نور",
+  "University_city": "گناوه",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور دیر",
+  "University_type": "پیام نور",
+  "University_city": "دیر",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور جم",
+  "University_type": "پیام نور",
+  "University_city": "جم",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه بین‌المللی پیام نور عسلویه",
+  "University_type": "پیام نور",
+  "University_city": "عسلویه",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور خورموج",
+  "University_type": "پیام نور",
+  "University_city": "خورموج",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور اهرم",
+  "University_type": "پیام نور",
+  "University_city": "اهرم",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور شبانکاره",
+  "University_type": "پیام نور",
+  "University_city": "شبانکاره",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور اِوَز",
+  "University_type": "پیام نور",
+  "University_city": "اوز",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور اقلید",
+  "University_type": "پیام نور",
+  "University_city": "اقلید",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور ابهر",
+  "University_type": "پیام نور",
+  "University_city": "ابهر",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور اردبیل",
+  "University_type": "پیام نور",
+  "University_city": "اردبیل",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور جهرم",
+  "University_type": "پیام نور",
+  "University_city": "جهرم",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "دانشگاه پیام نور اردکان",
+  "University_type": "پیام نور",
+  "University_city": "اردکان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور اسفراین",
+  "University_type": "پیام نور",
+  "University_city": "اسفراین",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور ایلام",
+  "University_type": "پیام نور",
+  "University_city": "ایلام",
+  "University_State": "ایلام"
+ },
+ {
+  "University_name": "دانشگاه پیام نور بردسکن",
+  "University_type": "پیام نور",
+  "University_city": "بردسکن",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور بوانات",
+  "University_type": "پیام نور",
+  "University_city": "بوانات",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور بیرجند",
+  "University_type": "پیام نور",
+  "University_city": "بیرجند",
+  "University_State": "خراسان جنوبی"
+ },
+ {
+  "University_name": "دانشگاه پیام نور تبریز",
+  "University_type": "پیام نور",
+  "University_city": "تبریز",
+  "University_State": "آذربایجان شرقی"
+ },
+ {
+  "University_name": "دانشگاه پیام نور تربت حیدریه",
+  "University_type": "پیام نور",
+  "University_city": "تربت حیدریه",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور خرمدره",
+  "University_type": "پیام نور",
+  "University_city": "خرمدره",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور جیرفت",
+  "University_type": "پیام نور",
+  "University_city": "جیرفت",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور خوانسار",
+  "University_type": "پیام نور",
+  "University_city": "خانسار",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور دزفول",
+  "University_type": "پیام نور",
+  "University_city": "دزفول",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور دهلران",
+  "University_type": "پیام نور",
+  "University_city": "دهلران",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور رامیان",
+  "University_type": "پیام نور",
+  "University_city": "رامیان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور زنجان",
+  "University_type": "پیام نور",
+  "University_city": "زنجان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور سبزوار",
+  "University_type": "پیام نور",
+  "University_city": "سبزوار",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور ساوه",
+  "University_type": "پیام نور",
+  "University_city": "ساوه",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور سروستان",
+  "University_type": "پیام نور",
+  "University_city": "سروستان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور سمیرم",
+  "University_type": "پیام نور",
+  "University_city": "سمیرم",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور سلطانیه",
+  "University_type": "پیام نور",
+  "University_city": "سلطانیه",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور شبستر",
+  "University_type": "پیام نور",
+  "University_city": "شبستر",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور شهریار",
+  "University_type": "پیام نور",
+  "University_city": "شهریار",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور شیراز",
+  "University_type": "پیام نور",
+  "University_city": "شیراز",
+  "University_State": "فارس"
+ },
+ {
+  "University_name": "دانشگاه پیام نور کازرون",
+  "University_type": "پیام نور",
+  "University_city": "کازرون",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور طارم زنجان",
+  "University_type": "پیام نور",
+  "University_city": "زنجان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور فیروزآباد",
+  "University_type": "پیام نور",
+  "University_city": "فیروزآباد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور قزوین",
+  "University_type": "پیام نور",
+  "University_city": "قزوین",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور قم",
+  "University_type": "پیام نور",
+  "University_city": "قم",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور کرج",
+  "University_type": "پیام نور",
+  "University_city": "کرج",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور گرگان",
+  "University_type": "پیام نور",
+  "University_city": "گرگان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور گرمسار",
+  "University_type": "پیام نور",
+  "University_city": "گرمسار",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور گلپایگان",
+  "University_type": "پیام نور",
+  "University_city": "گلپایگان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور گناباد",
+  "University_type": "پیام نور",
+  "University_city": "گناباد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور گنبد",
+  "University_type": "پیام نور",
+  "University_city": "گنبد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور لالجین",
+  "University_type": "پیام نور",
+  "University_city": "لالجین",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور واحد مهدی‌شهر",
+  "University_type": "پیام نور",
+  "University_city": "مهدی شهر",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور نیشابور",
+  "University_type": "پیام نور",
+  "University_city": "نیشابور",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور مشهد",
+  "University_type": "پیام نور",
+  "University_city": "مشهد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور نجف‌آباد",
+  "University_type": "پیام نور",
+  "University_city": "نجف آباد",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور هشترود",
+  "University_type": "پیام نور",
+  "University_city": "هشترود",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور رودهن",
+  "University_type": "پیام نور",
+  "University_city": "رودهن",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور ساری",
+  "University_type": "پیام نور",
+  "University_city": "ساری",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور شوش",
+  "University_type": "پیام نور",
+  "University_city": "شوش",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور دهدشت",
+  "University_type": "پیام نور",
+  "University_city": "دهدشت",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور رینه",
+  "University_type": "پیام نور",
+  "University_city": "رینه",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور آمل",
+  "University_type": "پیام نور",
+  "University_city": "آمل",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور بانه",
+  "University_type": "پیام نور",
+  "University_city": "بانه",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور طالقان",
+  "University_type": "پیام نور",
+  "University_city": "طالقان",
+  "University_State": "-"
+ },
+ {
+  "University_name": "دانشگاه پیام نور کامیاران",
+  "University_type": "پیام نور",
+  "University_city": "کامیاران",
+  "University_State": "-"
+ }
+]
